@@ -2,7 +2,7 @@
     "subjects": [
         {
             "name": "Coding",
-            "image": "/images/Quiz.jpg",
+            "image": "/images/quiz.jpg",
             "questions": [
                 {
                     "question": "What does HTML stand for?",
