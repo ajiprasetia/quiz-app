@@ -1,0 +1,958 @@
+{
+    "subjects": [
+        {
+            "name": "Coding",
+            "image": "/images/Quiz.jpg",
+            "questions": [
+                {
+                    "question": "What does HTML stand for?",
+                    "options": [
+                        "Hypertext Markup Language",
+                        "Hightext Machine Language",
+                        "Hyperlink and Text Markup Language",
+                        "Hypertext Markup Link"
+                    ],
+                    "answer": "Hypertext Markup Language"
+                },
+                {
+                    "question": "Which programming language was created by Guido van Rossum?",
+                    "options": [
+                        "Java",
+                        "Python",
+                        "JavaScript",
+                        "Ruby"
+                    ],
+                    "answer": "Python"
+                },
+                {
+                    "question": "Which JavaScript framework was developed by Facebook?",
+                    "options": [
+                        "Angular",
+                        "Vue.js",
+                        "React",
+                        "Svelte"
+                    ],
+                    "answer": "React"
+                },
+                {
+                    "question": "What is the main function of Git?",
+                    "options": [
+                        "Database management",
+                        "Version control",
+                        "Web hosting",
+                        "Code compilation"
+                    ],
+                    "answer": "Version control"
+                },
+                {
+                    "question": "Which HTTP method is used to retrieve data?",
+                    "options": [
+                        "POST",
+                        "PUT",
+                        "GET",
+                        "DELETE"
+                    ],
+                    "answer": "GET"
+                },
+                {
+                    "question": "What does CSS stand for?",
+                    "options": [
+                        "Computer Style Sheets",
+                        "Cascading Style Sheets",
+                        "Creative Style Sheets",
+                        "Colorful Style Sheets"
+                    ],
+                    "answer": "Cascading Style Sheets"
+                },
+                {
+                    "question": "Which NoSQL database is most popular?",
+                    "options": [
+                        "PostgreSQL",
+                        "MySQL",
+                        "MongoDB",
+                        "Oracle"
+                    ],
+                    "answer": "MongoDB"
+                },
+                {
+                    "question": "What does 'bug' mean in programming?",
+                    "options": [
+                        "New feature",
+                        "Error or mistake",
+                        "Software update",
+                        "Code comment"
+                    ],
+                    "answer": "Error or mistake"
+                },
+                {
+                    "question": "Which backend framework uses Python language?",
+                    "options": [
+                        "Laravel",
+                        "Express.js",
+                        "Django",
+                        "Ruby on Rails"
+                    ],
+                    "answer": "Django"
+                },
+                {
+                    "question": "What does API stand for?",
+                    "options": [
+                        "Application Programming Interface",
+                        "Advanced Programming Interface",
+                        "Application Program Interaction",
+                        "Automated Programming Interface"
+                    ],
+                    "answer": "Application Programming Interface"
+                }
+            ]
+        },
+        {
+            "name": "Math",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "What is 15 × 12?",
+                    "options": [
+                        "180",
+                        "175",
+                        "190",
+                        "165"
+                    ],
+                    "answer": "180"
+                },
+                {
+                    "question": "If x + 5 = 12, what is the value of x?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer": "7"
+                },
+                {
+                    "question": "What is the value of 2³?",
+                    "options": [
+                        "6",
+                        "8",
+                        "9",
+                        "12"
+                    ],
+                    "answer": "8"
+                },
+                {
+                    "question": "What is the formula for the area of a circle?",
+                    "options": [
+                        "πr",
+                        "πr²",
+                        "2πr",
+                        "πd"
+                    ],
+                    "answer": "πr²"
+                },
+                {
+                    "question": "What percent of 50 equals 25?",
+                    "options": [
+                        "25%",
+                        "50%",
+                        "75%",
+                        "100%"
+                    ],
+                    "answer": "50%"
+                },
+                {
+                    "question": "What is the square root of 144?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer": "12"
+                },
+                {
+                    "question": "A triangle with all sides equal is called?",
+                    "options": [
+                        "Right triangle",
+                        "Isosceles triangle",
+                        "Equilateral triangle",
+                        "Scalene triangle"
+                    ],
+                    "answer": "Equilateral triangle"
+                },
+                {
+                    "question": "What is 100 ÷ 4?",
+                    "options": [
+                        "20",
+                        "25",
+                        "30",
+                        "35"
+                    ],
+                    "answer": "25"
+                },
+                {
+                    "question": "The sum of angles in a quadrilateral is?",
+                    "options": [
+                        "180°",
+                        "270°",
+                        "360°",
+                        "450°"
+                    ],
+                    "answer": "360°"
+                },
+                {
+                    "question": "What is the rounded value of π (pi)?",
+                    "options": [
+                        "3.12",
+                        "3.14",
+                        "3.16",
+                        "3.18"
+                    ],
+                    "answer": "3.14"
+                }
+            ]
+        },
+        {
+            "name": "Science",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "Which planet is the largest in the solar system?",
+                    "options": [
+                        "Saturn",
+                        "Jupiter",
+                        "Uranus",
+                        "Neptune"
+                    ],
+                    "answer": "Jupiter"
+                },
+                {
+                    "question": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Go",
+                        "Gd",
+                        "Au",
+                        "Ag"
+                    ],
+                    "answer": "Au"
+                },
+                {
+                    "question": "Where does photosynthesis occur in plants?",
+                    "options": [
+                        "Roots",
+                        "Stem",
+                        "Leaves",
+                        "Flowers"
+                    ],
+                    "answer": "Leaves"
+                },
+                {
+                    "question": "How many pairs of chromosomes do humans have?",
+                    "options": [
+                        "23 pairs",
+                        "24 pairs",
+                        "46 pairs",
+                        "48 pairs"
+                    ],
+                    "answer": "23 pairs"
+                },
+                {
+                    "question": "What is the most abundant gas in Earth's atmosphere?",
+                    "options": [
+                        "Oxygen",
+                        "Nitrogen",
+                        "Carbon dioxide",
+                        "Hydrogen"
+                    ],
+                    "answer": "Nitrogen"
+                },
+                {
+                    "question": "What is the largest organ in the human body?",
+                    "options": [
+                        "Heart",
+                        "Liver",
+                        "Skin",
+                        "Lungs"
+                    ],
+                    "answer": "Skin"
+                },
+                {
+                    "question": "What is the normal human body temperature?",
+                    "options": [
+                        "35°C",
+                        "36°C",
+                        "37°C",
+                        "38°C"
+                    ],
+                    "answer": "37°C"
+                },
+                {
+                    "question": "Which animal is the largest marine mammal?",
+                    "options": [
+                        "Whale shark",
+                        "Blue whale",
+                        "Orca",
+                        "Dolphin"
+                    ],
+                    "answer": "Blue whale"
+                },
+                {
+                    "question": "What is the speed of light?",
+                    "options": [
+                        "300,000 km/s",
+                        "200,000 km/s",
+                        "400,000 km/s",
+                        "500,000 km/s"
+                    ],
+                    "answer": "300,000 km/s"
+                },
+                {
+                    "question": "What does DNA stand for?",
+                    "options": [
+                        "Deoxyribonucleic Acid",
+                        "Dynamic Nuclear Acid",
+                        "Double Nuclear Acid",
+                        "Deoxyribose Nucleic Atom"
+                    ],
+                    "answer": "Deoxyribonucleic Acid"
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "Who were the proclamators of Indonesian independence?",
+                    "options": [
+                        "Soeharto and Habibie",
+                        "Soekarno and Hatta",
+                        "Soekarno and Soeharto",
+                        "Hatta and Sjahrir"
+                    ],
+                    "answer": "Soekarno and Hatta"
+                },
+                {
+                    "question": "When did Indonesia gain independence?",
+                    "options": [
+                        "August 17, 1945",
+                        "August 17, 1944",
+                        "August 17, 1946",
+                        "August 17, 1947"
+                    ],
+                    "answer": "August 17, 1945"
+                },
+                {
+                    "question": "What is the largest temple in Indonesia?",
+                    "options": [
+                        "Prambanan Temple",
+                        "Borobudur Temple",
+                        "Mendut Temple",
+                        "Sewu Temple"
+                    ],
+                    "answer": "Borobudur Temple"
+                },
+                {
+                    "question": "When did World War II end?",
+                    "options": [
+                        "1943",
+                        "1944",
+                        "1945",
+                        "1946"
+                    ],
+                    "answer": "1945"
+                },
+                {
+                    "question": "What was the first Islamic kingdom in Indonesia?",
+                    "options": [
+                        "Mataram Kingdom",
+                        "Demak Sultanate",
+                        "Majapahit Kingdom",
+                        "Aceh Sultanate"
+                    ],
+                    "answer": "Demak Sultanate"
+                },
+                {
+                    "question": "Who invented the telephone?",
+                    "options": [
+                        "Thomas Edison",
+                        "Alexander Graham Bell",
+                        "Nikola Tesla",
+                        "Benjamin Franklin"
+                    ],
+                    "answer": "Alexander Graham Bell"
+                },
+                {
+                    "question": "When did the Rengasdengklok incident occur?",
+                    "options": [
+                        "August 15, 1945",
+                        "August 16, 1945",
+                        "August 17, 1945",
+                        "August 18, 1945"
+                    ],
+                    "answer": "August 16, 1945"
+                },
+                {
+                    "question": "Who composed the song 'Indonesia Raya'?",
+                    "options": [
+                        "W.R. Supratman",
+                        "Ismail Marzuki",
+                        "C. Simanjuntak",
+                        "Ibu Sud"
+                    ],
+                    "answer": "W.R. Supratman"
+                },
+                {
+                    "question": "What was the first national movement organization in Indonesia?",
+                    "options": [
+                        "Budi Utomo",
+                        "Sarekat Islam",
+                        "Indische Partij",
+                        "Perhimpunan Indonesia"
+                    ],
+                    "answer": "Budi Utomo"
+                },
+                {
+                    "question": "Where was the Asian-African Conference held?",
+                    "options": [
+                        "Jakarta",
+                        "Bandung",
+                        "Surabaya",
+                        "Yogyakarta"
+                    ],
+                    "answer": "Bandung"
+                }
+            ]
+        },
+        {
+            "name": "Geography",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "What is the capital of Indonesia?",
+                    "options": [
+                        "Bandung",
+                        "Surabaya",
+                        "Jakarta",
+                        "Medan"
+                    ],
+                    "answer": "Jakarta"
+                },
+                {
+                    "question": "What is the highest mountain in Indonesia?",
+                    "options": [
+                        "Mount Semeru",
+                        "Mount Rinjani",
+                        "Mount Kerinci",
+                        "Puncak Jaya"
+                    ],
+                    "answer": "Puncak Jaya"
+                },
+                {
+                    "question": "What is the largest ocean in the world?",
+                    "options": [
+                        "Atlantic Ocean",
+                        "Pacific Ocean",
+                        "Indian Ocean",
+                        "Arctic Ocean"
+                    ],
+                    "answer": "Pacific Ocean"
+                },
+                {
+                    "question": "How many provinces are there in Indonesia?",
+                    "options": [
+                        "34",
+                        "35",
+                        "36",
+                        "38"
+                    ],
+                    "answer": "38"
+                },
+                {
+                    "question": "Which country has the largest population in the world?",
+                    "options": [
+                        "India",
+                        "United States",
+                        "Indonesia",
+                        "China"
+                    ],
+                    "answer": "India"
+                },
+                {
+                    "question": "What is the longest river in the world?",
+                    "options": [
+                        "Amazon River",
+                        "Nile River",
+                        "Yangtze River",
+                        "Mississippi River"
+                    ],
+                    "answer": "Nile River"
+                },
+                {
+                    "question": "What is the smallest continent in the world?",
+                    "options": [
+                        "Europe",
+                        "Australia",
+                        "Antarctica",
+                        "South America"
+                    ],
+                    "answer": "Australia"
+                },
+                {
+                    "question": "Which country has the largest land area in the world?",
+                    "options": [
+                        "Canada",
+                        "China",
+                        "United States",
+                        "Russia"
+                    ],
+                    "answer": "Russia"
+                },
+                {
+                    "question": "What is the largest lake in Indonesia?",
+                    "options": [
+                        "Lake Toba",
+                        "Lake Maninjau",
+                        "Lake Singkarak",
+                        "Lake Poso"
+                    ],
+                    "answer": "Lake Toba"
+                },
+                {
+                    "question": "What is the largest island in Indonesia?",
+                    "options": [
+                        "Sumatra",
+                        "Java",
+                        "Kalimantan",
+                        "Papua"
+                    ],
+                    "answer": "Papua"
+                }
+            ]
+        },
+        {
+            "name": "Literature",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "Who wrote the novel 'Laskar Pelangi' (The Rainbow Troops)?",
+                    "options": [
+                        "Pramoedya Ananta Toer",
+                        "Andrea Hirata",
+                        "Habiburrahman El Shirazy",
+                        "Dee Lestari"
+                    ],
+                    "answer": "Andrea Hirata"
+                },
+                {
+                    "question": "Who wrote the novel 'Tenggelamnya Kapal Van Der Wijck'?",
+                    "options": [
+                        "Chairil Anwar",
+                        "Hamka",
+                        "Pramoedya Ananta Toer",
+                        "Mochtar Lubis"
+                    ],
+                    "answer": "Hamka"
+                },
+                {
+                    "question": "Who wrote 'Romeo and Juliet'?",
+                    "options": [
+                        "Charles Dickens",
+                        "William Shakespeare",
+                        "Mark Twain",
+                        "Jane Austen"
+                    ],
+                    "answer": "William Shakespeare"
+                },
+                {
+                    "question": "The novel 'Bumi Manusia' (This Earth of Mankind) was written by?",
+                    "options": [
+                        "Pramoedya Ananta Toer",
+                        "Hamka",
+                        "Chairil Anwar",
+                        "Taufiq Ismail"
+                    ],
+                    "answer": "Pramoedya Ananta Toer"
+                },
+                {
+                    "question": "Which poet is known for the poem 'Aku' (I)?",
+                    "options": [
+                        "W.S. Rendra",
+                        "Chairil Anwar",
+                        "Sapardi Djoko Damono",
+                        "Taufiq Ismail"
+                    ],
+                    "answer": "Chairil Anwar"
+                },
+                {
+                    "question": "Who wrote 'Harry Potter'?",
+                    "options": [
+                        "J.R.R. Tolkien",
+                        "J.K. Rowling",
+                        "C.S. Lewis",
+                        "George R.R. Martin"
+                    ],
+                    "answer": "J.K. Rowling"
+                },
+                {
+                    "question": "Who wrote the novel 'Ayat-Ayat Cinta' (Verses of Love)?",
+                    "options": [
+                        "Andrea Hirata",
+                        "Habiburrahman El Shirazy",
+                        "Tere Liye",
+                        "Dee Lestari"
+                    ],
+                    "answer": "Habiburrahman El Shirazy"
+                },
+                {
+                    "question": "What is the oldest literary work in the world?",
+                    "options": [
+                        "Mahabharata",
+                        "Ramayana",
+                        "Epic of Gilgamesh",
+                        "Odyssey"
+                    ],
+                    "answer": "Epic of Gilgamesh"
+                },
+                {
+                    "question": "Who wrote the novel '1984'?",
+                    "options": [
+                        "George Orwell",
+                        "Aldous Huxley",
+                        "Ray Bradbury",
+                        "Kurt Vonnegut"
+                    ],
+                    "answer": "George Orwell"
+                },
+                {
+                    "question": "Who wrote the novel 'Perahu Kertas' (Paper Boats)?",
+                    "options": [
+                        "Andrea Hirata",
+                        "Dee Lestari",
+                        "Tere Liye",
+                        "Raditya Dika"
+                    ],
+                    "answer": "Dee Lestari"
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "Who is the famous Indonesian painter who painted 'The Arrest of Diponegoro'?",
+                    "options": [
+                        "Affandi",
+                        "Raden Saleh",
+                        "Basuki Abdullah",
+                        "S. Sudjojono"
+                    ],
+                    "answer": "Raden Saleh"
+                },
+                {
+                    "question": "Who painted the 'Mona Lisa'?",
+                    "options": [
+                        "Michelangelo",
+                        "Leonardo da Vinci",
+                        "Raphael",
+                        "Vincent van Gogh"
+                    ],
+                    "answer": "Leonardo da Vinci"
+                },
+                {
+                    "question": "What is the Japanese art of paper folding called?",
+                    "options": [
+                        "Ikebana",
+                        "Origami",
+                        "Bonsai",
+                        "Manga"
+                    ],
+                    "answer": "Origami"
+                },
+                {
+                    "question": "Who created the famous statue 'David'?",
+                    "options": [
+                        "Leonardo da Vinci",
+                        "Michelangelo",
+                        "Donatello",
+                        "Bernini"
+                    ],
+                    "answer": "Michelangelo"
+                },
+                {
+                    "question": "Where does Wayang Kulit (shadow puppetry) originate from?",
+                    "options": [
+                        "Bali",
+                        "Java",
+                        "Sumatra",
+                        "Kalimantan"
+                    ],
+                    "answer": "Java"
+                },
+                {
+                    "question": "Who painted 'The Starry Night'?",
+                    "options": [
+                        "Pablo Picasso",
+                        "Vincent van Gogh",
+                        "Claude Monet",
+                        "Salvador Dali"
+                    ],
+                    "answer": "Vincent van Gogh"
+                },
+                {
+                    "question": "What art movement emphasizes emotional expression?",
+                    "options": [
+                        "Realism",
+                        "Expressionism",
+                        "Impressionism",
+                        "Surrealism"
+                    ],
+                    "answer": "Expressionism"
+                },
+                {
+                    "question": "Indonesian Batik has been recognized by UNESCO as?",
+                    "options": [
+                        "World Cultural Heritage",
+                        "Traditional Art",
+                        "Handicraft",
+                        "Modern Art"
+                    ],
+                    "answer": "World Cultural Heritage"
+                },
+                {
+                    "question": "Where does the Pendet dance originate from?",
+                    "options": [
+                        "Java",
+                        "Bali",
+                        "Sumatra",
+                        "Sulawesi"
+                    ],
+                    "answer": "Bali"
+                },
+                {
+                    "question": "Affandi is famous for painting with?",
+                    "options": [
+                        "Brushes",
+                        "Fingers",
+                        "Sponges",
+                        "Palette knife"
+                    ],
+                    "answer": "Fingers"
+                }
+            ]
+        },
+        {
+            "name": "Music",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "What is the traditional musical instrument from West Java?",
+                    "options": [
+                        "Sasando",
+                        "Angklung",
+                        "Kolintang",
+                        "Gamelan"
+                    ],
+                    "answer": "Angklung"
+                },
+                {
+                    "question": "Who composed the song 'Indonesia Raya'?",
+                    "options": [
+                        "Ismail Marzuki",
+                        "W.R. Supratman",
+                        "C. Simanjuntak",
+                        "Ibu Sud"
+                    ],
+                    "answer": "W.R. Supratman"
+                },
+                {
+                    "question": "How many notes are in the diatonic scale?",
+                    "options": [
+                        "5",
+                        "7",
+                        "8",
+                        "12"
+                    ],
+                    "answer": "7"
+                },
+                {
+                    "question": "What is a traditional Indonesian stringed instrument?",
+                    "options": [
+                        "Suling",
+                        "Rebab",
+                        "Kecapi",
+                        "Kendang"
+                    ],
+                    "answer": "Kecapi"
+                },
+                {
+                    "question": "Who composed the song 'Halo-Halo Bandung'?",
+                    "options": [
+                        "Ismail Marzuki",
+                        "Cornel Simanjuntak",
+                        "W.R. Supratman",
+                        "Ibu Sud"
+                    ],
+                    "answer": "Ismail Marzuki"
+                },
+                {
+                    "question": "Gamelan is a traditional instrument from?",
+                    "options": [
+                        "Sumatra",
+                        "Java and Bali",
+                        "Kalimantan",
+                        "Sulawesi"
+                    ],
+                    "answer": "Java and Bali"
+                },
+                {
+                    "question": "What is a traditional Indonesian wind instrument?",
+                    "options": [
+                        "Gong",
+                        "Kendang",
+                        "Suling",
+                        "Saron"
+                    ],
+                    "answer": "Suling"
+                },
+                {
+                    "question": "What symbol raises a note by a half step?",
+                    "options": [
+                        "Sharp (#)",
+                        "Flat (b)",
+                        "Natural",
+                        "Forte"
+                    ],
+                    "answer": "Sharp (#)"
+                },
+                {
+                    "question": "Where does the Kolintang instrument originate from?",
+                    "options": [
+                        "Java",
+                        "Sumatra",
+                        "North Sulawesi",
+                        "Bali"
+                    ],
+                    "answer": "North Sulawesi"
+                },
+                {
+                    "question": "Allegro tempo means to play?",
+                    "options": [
+                        "Slowly",
+                        "Moderately",
+                        "Fast",
+                        "Very slowly"
+                    ],
+                    "answer": "Fast"
+                }
+            ]
+        },
+        {
+            "name": "Sports",
+            "image": "/images/quiz.jpg",
+            "questions": [
+                {
+                    "question": "What is badminton called in Indonesian?",
+                    "options": [
+                        "Tenis",
+                        "Bulu tangkis",
+                        "Tenis meja",
+                        "Squash"
+                    ],
+                    "answer": "Bulu tangkis"
+                },
+                {
+                    "question": "How many players are on a football/soccer team?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "9"
+                    ],
+                    "answer": "11"
+                },
+                {
+                    "question": "Who won the gold medal for Indonesia at the 2020 Olympics?",
+                    "options": [
+                        "Jonatan Christie",
+                        "Anthony Ginting",
+                        "Greysia Polii/Apriyani Rahayu",
+                        "Kevin Sanjaya"
+                    ],
+                    "answer": "Greysia Polii/Apriyani Rahayu"
+                },
+                {
+                    "question": "Where does Pencak Silat martial art originate from?",
+                    "options": [
+                        "China",
+                        "Japan",
+                        "Indonesia",
+                        "Thailand"
+                    ],
+                    "answer": "Indonesia"
+                },
+                {
+                    "question": "What is the maximum number of sets in badminton?",
+                    "options": [
+                        "2 sets",
+                        "3 sets",
+                        "4 sets",
+                        "5 sets"
+                    ],
+                    "answer": "3 sets"
+                },
+                {
+                    "question": "How often is the FIFA World Cup held?",
+                    "options": [
+                        "Every 2 years",
+                        "Every 3 years",
+                        "Every 4 years",
+                        "Every 5 years"
+                    ],
+                    "answer": "Every 4 years"
+                },
+                {
+                    "question": "Who is a legendary Indonesian badminton player?",
+                    "options": [
+                        "Taufik Hidayat",
+                        "Liliyana Natsir",
+                        "Susi Susanti",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "In basketball, how many points is a three-point shot worth?",
+                    "options": [
+                        "1 point",
+                        "2 points",
+                        "3 points",
+                        "4 points"
+                    ],
+                    "answer": "3 points"
+                },
+                {
+                    "question": "Where were the first Olympics held?",
+                    "options": [
+                        "Italy",
+                        "Greece",
+                        "France",
+                        "England"
+                    ],
+                    "answer": "Greece"
+                },
+                {
+                    "question": "What is the goalkeeper position called in football/soccer?",
+                    "options": [
+                        "Defender",
+                        "Midfielder",
+                        "Goalkeeper",
+                        "Striker"
+                    ],
+                    "answer": "Goalkeeper"
+                }
+            ]
+        }
+    ]
+}
