@@ -71,10 +71,6 @@ export default function Home() {
               </p>
               <p className="text-sm text-gray-600 font-medium">Questions</p>
             </div>
-            <div className="bg-green-50 border-2 border-green-200 rounded-xl px-6 py-3">
-              <p className="text-2xl font-bold text-green-600">Free</p>
-              <p className="text-sm text-gray-600 font-medium">Access</p>
-            </div>
           </div>
         </div>
       </div>
